@@ -6,9 +6,9 @@ packages and libraries:
 
 results:
 
-contributors
-@ rithikabadam
 
-@ chinthalapranathi
+## Contributers :
 
-@ AdvaithaDaduvy
+- [@rithikabadam](https://github.com/rithikabadam)
+- [@chinthalapranathi](https://github.com/chinthalapranathi)
+- [@AdvaithaDaduvy](https://github.com/AdvaithaDaduvy)
