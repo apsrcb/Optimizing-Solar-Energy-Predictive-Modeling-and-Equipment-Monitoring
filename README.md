@@ -7,8 +7,8 @@ packages and libraries:
 results:
 
 contributors
-@rithikabadam
+@ rithikabadam
 
-@chinthalapranathi
+@ chinthalapranathi
 
-@AdvaithaDaduvy
+@ AdvaithaDaduvy
