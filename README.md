@@ -12,7 +12,7 @@ The goal of this project is to develop Machine Learning models that accurately p
 
 4. Accuracy and Robustness: The developed machine learning model should be accurate and robust to handle different scenarios and generalize well to unseen data. It should be able to adapt to changing weather patterns, seasonal variations, and different solar power plant locations.
 
-The objective of this project is to leverage machine learning techniques, such as Linear Regression, KNN, Decision Tree and Random Forest Regression, compare the evaluation metrics of the models and chose the best one to predict solar power generation based datset. By achieving accurate predictions, this project aims to assist in efficient energy management and facilitate the integration of solar power into the existing power grid.
+The objective of this project is to leverage machine learning techniques, such as Linear Regression, KNN, Decision Tree and Random Forest Regression, compare the evaluation metrics of the models and chose the best one to predict solar power generation based on the datset. By achieving accurate predictions, this project aims to assist in efficient energy management and facilitate the integration of solar power into the existing power grid.
 
 ## Contributers :
 
