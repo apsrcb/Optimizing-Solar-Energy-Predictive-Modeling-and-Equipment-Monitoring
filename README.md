@@ -16,8 +16,3 @@ The objective of this project is to leverage machine learning techniques, such a
 
 By achieving accurate predictions and effectively analyzing fault occurrences, this project aims to assist in efficient energy management, optimize power grid integration, and facilitate the utilization of solar power as a sustainable energy source.
 
-## Contributors :
-
-- [@rithikabadam](https://github.com/rithikabadam)
-- [@chinthalapranathi](https://github.com/chinthalapranathi)
-- [@AdvaithaDaduvy](https://github.com/AdvaithaDaduvy)
